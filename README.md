@@ -34,3 +34,32 @@ Se añadieron dos elementos gráficos superpuestos que enriquecen la experiencia
 - `updateObstacleCounterText(count)`
 
 ---
+
+### Integrantes
+- Nombre: Henry Galue  
+  Carnet: 14-10373  
+  API: Three.js  
+
+---
+
+### Sistema Operativo de Desarrollo
+- **Sistema Operativo:** Windows 10
+
+---
+
+### Dependencias
+- **Three.js:** Incluido en el repositorio (`three.module.js`).
+- **Navegador Web:** Chrome, Firefox o Edge (compatibles con WebGL).
+
+---
+
+## Cómo Correr la Simulación
+
+1. Si has instalado `http-server`, corre el servidor en el directorio raíz del proyecto:
+    ```bash
+    http-server .
+    ```
+    Luego, abre tu navegador y navega a `http://localhost:8080` (o el puerto que indique el servidor).
+
+
+
